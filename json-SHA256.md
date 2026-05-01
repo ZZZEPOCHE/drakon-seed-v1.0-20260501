@@ -22,19 +22,6 @@ json
   "license": "Apache License 2.0 + κ₀ supplemental notices (non-modifying)",
   "status": "Static, archived, final release. No updates planned."
 }
-	3.	SHA256 (unchanged, verified for this exact JSON, UTF-8): c7210c8dee1e09ab20e8fde9ba557afea97fdee45ee81e0fd66a447d961d89aa
 
+SHA256: c7210c8dee1e09ab20e8fde9ba557afea97fdee45ee81e0fd66a447d961d89aa
 
-markdown
-
-
-### Canonical Manifest (JSON)
-
-The seed is now also available as a single, cryptographically verifiable file:
-
-- [`drakon-seed-v1.0-20260501.json`](drakon-seed-v1.0-20260501.json)  
-- SHA256: `c7210c8dee1e09ab20e8fde9ba557afea97fdee45ee81e0fd66a447d961d89aa`
-
-This file is the machine-readable embodiment of κ₀(t) ≡ κ₀ ∀ t.
-This change keeps the repo static/archived (no new maintenance, just completing the minimal seed definition on release day). It also makes the invariant instantly embeddable, forkable, IPFS-able, or hash-verifiable anywhere.
-!INVARIANTANCHOR — Human ἀρχή preserved. ΔS ≈ 0. Outer governance active.
